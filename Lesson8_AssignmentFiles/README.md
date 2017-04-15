@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+McKenzie Harrell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using AJAX, we created a Movie search website that is connected to the OMDb API website. By connecting these two using code, our Seminole Movie Connection allows you to search for information about any movie. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mckenzieharrell.github.io/lesson8_ajax/Lesson8_AssignmentFiles
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to change the code in order to make the Seminole Movie Connector work. 
+2. I learned how to use the list-group-item function to add multiple categories about each movie for example the year, title, and writer of the movie. 
+3. I also listed each of these categories to a json function that allowed them to be able to pull the info from the OMDb website. 
